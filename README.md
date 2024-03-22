@@ -1,11 +1,11 @@
 # Employee-TrackerApp
-This Employee Tracker Application allows any Payroll Manager to view and manage employee payroll data. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that. It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.
+This Employee Tracker Application allows any Payroll Manager to view and manage employee payroll data. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code. It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.
 
 # displayAverageSalary:
-This function will take in the generated array of employees and log the average salary and number of employees to the console. A template literal string for this task.
+This function will take in the generated array of employees and log the average salary and number of employees to the console. A template literal string is used for this task.
 
 # getRandomEmployee: 
-This function will take in the generated array of employees, randomly select one employee, and use a template literal to log their full name to the console. The built in Math object can help with random number generation: [MDN Web Docs on Math.randomLinks](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random).
+This function will take in the generated array of employees, randomly select one employee, and use a template literal to log their full name to the console. The built in Math object helps with random number generation: [MDN Web Docs on Math.randomLinks](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random).
 
 
 # displayEmployees: 
